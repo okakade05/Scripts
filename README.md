@@ -1,2 +1,2 @@
 # Scripts
-Generalized Scripts to automate recurring tasks in workflow.
+Generalized scripts to automate recurring tasks in daily workflow.
