@@ -21,6 +21,7 @@ def timer (function):
     
     return wrapper
 
+
 @timer
 def testFunc():
     time.sleep(2)
